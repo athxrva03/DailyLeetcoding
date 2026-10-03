@@ -18,10 +18,12 @@ LeetCode daily
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 ## Math
 |  |
