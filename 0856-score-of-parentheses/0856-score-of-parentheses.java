@@ -9,7 +9,7 @@ class Solution {
             }else if(s.charAt(i)== ')'){
                 count --;
                 if(s.charAt(i-1) == '('){
-                    score += 1 << count;
+                    score += Math.pow(2,count);
                 }
             }
         }
