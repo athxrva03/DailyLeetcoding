@@ -7,14 +7,17 @@ LeetCode daily
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
