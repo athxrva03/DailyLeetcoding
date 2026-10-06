@@ -8,17 +8,20 @@ LeetCode daily
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +58,8 @@ LeetCode daily
 | [0620-not-boring-movies](https://github.com/athxrva03/DailyLeetcoding/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/1193-monthly-transactions-i) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
