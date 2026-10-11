@@ -28,6 +28,7 @@ LeetCode daily
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
