@@ -16,6 +16,7 @@ LeetCode daily
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -29,6 +30,7 @@ LeetCode daily
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -74,4 +76,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
