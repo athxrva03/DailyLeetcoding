@@ -1,7 +1,7 @@
 class Solution {
     public int[] finalPrices(int[] prices) {
         int n = prices.length;
-        int[] res = prices.clone();
+        int[] res = new int[n];
         Stack<Integer> st = new Stack<>();
 
         for(int i = n - 1 ; i >= 0 ; i--){
@@ -11,6 +11,8 @@ class Solution {
 
             if(!st.isEmpty()){
                 res[i] = prices[i] - st.peek();
+            }else{
+                res[i] = prices[i];
             }
 
             st.push(prices[i]);
