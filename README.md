@@ -42,6 +42,7 @@ LeetCode daily
 | ------- |
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,8 @@ LeetCode daily
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
