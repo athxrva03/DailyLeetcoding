@@ -43,6 +43,7 @@ LeetCode daily
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
