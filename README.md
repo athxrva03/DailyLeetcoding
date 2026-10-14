@@ -28,6 +28,7 @@ LeetCode daily
 | ------- |
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -36,6 +37,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -58,6 +60,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 ## Database
 |  |
@@ -93,4 +96,16 @@ LeetCode daily
 | ------- |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
