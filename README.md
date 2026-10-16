@@ -44,6 +44,7 @@ LeetCode daily
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
@@ -98,6 +99,7 @@ LeetCode daily
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -112,4 +114,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
