@@ -32,6 +32,7 @@ LeetCode daily
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@ LeetCode daily
 | ------- |
 | [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
@@ -93,6 +95,7 @@ LeetCode daily
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
