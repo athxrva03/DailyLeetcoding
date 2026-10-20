@@ -7,10 +7,11 @@ class Solution {
             num = i;
            }
 
-            if(i == num){
-                count ++;
-            }else{
-                count --;
+            if(i == num) {
+                count ++ ;
+            }
+            else{
+                 count-- ;
             }
         }
         return num;
