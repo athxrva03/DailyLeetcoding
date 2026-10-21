@@ -81,6 +81,7 @@ LeetCode daily
 | [0620-not-boring-movies](https://github.com/athxrva03/DailyLeetcoding/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/athxrva03/DailyLeetcoding/tree/master/1251-average-selling-price) |
 ## Greedy
 |  |
 | ------- |
