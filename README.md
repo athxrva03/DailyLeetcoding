@@ -43,6 +43,7 @@ LeetCode daily
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -148,4 +149,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
