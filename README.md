@@ -13,6 +13,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
@@ -32,6 +33,7 @@ LeetCode daily
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/athxrva03/DailyLeetcoding/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/athxrva03/DailyLeetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -107,6 +109,7 @@ LeetCode daily
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
@@ -141,4 +144,8 @@ LeetCode daily
 | [0055-jump-game](https://github.com/athxrva03/DailyLeetcoding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/athxrva03/DailyLeetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
