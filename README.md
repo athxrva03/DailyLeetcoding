@@ -48,6 +48,7 @@ LeetCode daily
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ LeetCode daily
 | ------- |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
