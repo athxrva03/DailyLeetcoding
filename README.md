@@ -11,6 +11,7 @@ LeetCode daily
 | [0058-length-of-last-word](https://github.com/athxrva03/DailyLeetcoding/tree/master/0058-length-of-last-word) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2409-count-days-spent-together](https://github.com/athxrva03/DailyLeetcoding/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode daily
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
+| [2409-count-days-spent-together](https://github.com/athxrva03/DailyLeetcoding/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
