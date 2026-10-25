@@ -15,7 +15,7 @@ class Solution {
         return sum ;
     }
 
-    public int value(char ch){
+    private int value(char ch){
         switch (ch) {
             case 'I' : return 1;
             case 'V' : return 5;
