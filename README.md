@@ -32,6 +32,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/athxrva03/DailyLeetcoding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/athxrva03/DailyLeetcoding/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@ LeetCode daily
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/athxrva03/DailyLeetcoding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/athxrva03/DailyLeetcoding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -111,6 +113,7 @@ LeetCode daily
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/athxrva03/DailyLeetcoding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
