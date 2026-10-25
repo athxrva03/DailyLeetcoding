@@ -6,6 +6,7 @@ LeetCode daily
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/athxrva03/DailyLeetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/athxrva03/DailyLeetcoding/tree/master/0058-length-of-last-word) |
@@ -56,6 +57,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/athxrva03/DailyLeetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
@@ -182,4 +184,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/athxrva03/DailyLeetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
