@@ -51,6 +51,7 @@ LeetCode daily
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
@@ -198,4 +199,5 @@ LeetCode daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/athxrva03/DailyLeetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
