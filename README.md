@@ -47,6 +47,7 @@ LeetCode daily
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
@@ -173,6 +174,7 @@ LeetCode daily
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 |  |
