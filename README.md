@@ -47,6 +47,7 @@ LeetCode daily
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ LeetCode daily
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -177,6 +179,7 @@ LeetCode daily
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
@@ -199,5 +202,6 @@ LeetCode daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/athxrva03/DailyLeetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
