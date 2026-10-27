@@ -54,6 +54,7 @@ LeetCode daily
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@ LeetCode daily
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
