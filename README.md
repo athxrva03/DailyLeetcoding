@@ -43,6 +43,7 @@ LeetCode daily
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/athxrva03/DailyLeetcoding/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
@@ -91,6 +92,7 @@ LeetCode daily
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
@@ -215,4 +217,8 @@ LeetCode daily
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
