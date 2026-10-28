@@ -61,6 +61,7 @@ LeetCode daily
 | [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -99,6 +100,7 @@ LeetCode daily
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
