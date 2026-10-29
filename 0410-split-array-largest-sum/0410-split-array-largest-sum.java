@@ -3,31 +3,31 @@ class Solution {
         int max = 0;
         int sum = 0;
         for(int i : nums){
-            sum += i;
+            sum+= i;
             if(max < i){
                 max = i;
             }
         }
 
         int l = max ;
-        int r = sum;
-
+        int r = sum;    
         while(l < r){
-            int m = l + (r - l)/2;
+            int m = l + (r-l)/2;
 
-            int cSum = 0 ;
+
+            int cSum = 0;
             int subArr = 1;
             for(int i : nums){
                 if(cSum + i > m){
-                    subArr++;
-                    cSum = i;
+                    cSum = i ;
+                    subArr ++;
                 }else{
                     cSum += i;
                 }
             }
 
             if(subArr > k){
-                l = m + 1;
+                l = m+1;
             }else{
                 r = m;
             }
