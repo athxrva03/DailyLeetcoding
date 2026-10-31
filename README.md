@@ -66,6 +66,7 @@ LeetCode daily
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/athxrva03/DailyLeetcoding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -105,6 +106,7 @@ LeetCode daily
 | [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/athxrva03/DailyLeetcoding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
