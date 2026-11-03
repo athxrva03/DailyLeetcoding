@@ -70,6 +70,7 @@ LeetCode daily
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/athxrva03/DailyLeetcoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ LeetCode daily
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/athxrva03/DailyLeetcoding/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/athxrva03/DailyLeetcoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
