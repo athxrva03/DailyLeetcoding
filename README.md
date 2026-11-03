@@ -87,6 +87,7 @@ LeetCode daily
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/athxrva03/DailyLeetcoding/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/athxrva03/DailyLeetcoding/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/athxrva03/DailyLeetcoding/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
@@ -99,6 +100,7 @@ LeetCode daily
 | [0004-median-of-two-sorted-arrays](https://github.com/athxrva03/DailyLeetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/athxrva03/DailyLeetcoding/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
@@ -237,4 +239,8 @@ LeetCode daily
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/athxrva03/DailyLeetcoding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
