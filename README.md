@@ -86,6 +86,7 @@ LeetCode daily
 | [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/athxrva03/DailyLeetcoding/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/athxrva03/DailyLeetcoding/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
@@ -169,6 +170,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/athxrva03/DailyLeetcoding/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
 ## Divide and Conquer
