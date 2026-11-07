@@ -12,6 +12,7 @@ LeetCode daily
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/athxrva03/DailyLeetcoding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/athxrva03/DailyLeetcoding/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -81,6 +82,7 @@ LeetCode daily
 | [0013-roman-to-integer](https://github.com/athxrva03/DailyLeetcoding/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
@@ -131,6 +133,7 @@ LeetCode daily
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
