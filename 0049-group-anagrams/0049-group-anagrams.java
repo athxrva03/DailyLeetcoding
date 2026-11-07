@@ -2,9 +2,13 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String, List<String>> map = new HashMap<>();
         for(String str : strs) {
-            char[] chArr = str.toCharArray();
-            Arrays.sort(chArr);
-            String key = new String(chArr);
+            int[] chArr = new int[26];
+            
+            for(char ch : str.toCharArray()){
+                chArr[ch - 'a']++;
+            }
+
+            String key = Arrays.toString(chArr);
 
             map.computeIfAbsent(key,k -> new ArrayList<>()).add(str);
         }
