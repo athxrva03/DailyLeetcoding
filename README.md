@@ -69,6 +69,7 @@ LeetCode daily
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/athxrva03/DailyLeetcoding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -205,6 +206,7 @@ LeetCode daily
 | ------- |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/athxrva03/DailyLeetcoding/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -260,8 +262,21 @@ LeetCode daily
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/athxrva03/DailyLeetcoding/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/athxrva03/DailyLeetcoding/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
