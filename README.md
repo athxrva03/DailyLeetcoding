@@ -77,6 +77,7 @@ LeetCode daily
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/athxrva03/DailyLeetcoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
