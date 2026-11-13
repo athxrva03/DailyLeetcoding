@@ -3,19 +3,17 @@ class Solution {
         s = s.replaceAll("[^a-zA-Z0-9]" , "");
         s = s.toLowerCase();
 
-        int l = 0 ;
-        int r = s.length() -1;
+        int l = 0;
+        int h = s.length() -1;
 
-        while(l < r){
-            if(s.charAt(l) != s.charAt(r)){
+        while(l < h){
+            if(s.charAt(l) != s.charAt(h)){
                 return false;
             }
-
             l++;
-            r--;
+            h--;
         }
 
         return true;
-
     }
 }
