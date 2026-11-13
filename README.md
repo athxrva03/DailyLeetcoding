@@ -71,6 +71,7 @@ LeetCode daily
 | [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/athxrva03/DailyLeetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -148,6 +149,7 @@ LeetCode daily
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
@@ -188,6 +190,7 @@ LeetCode daily
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/athxrva03/DailyLeetcoding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
