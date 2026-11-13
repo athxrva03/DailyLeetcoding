@@ -63,6 +63,7 @@ LeetCode daily
 | [0217-contains-duplicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/athxrva03/DailyLeetcoding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
@@ -184,6 +185,7 @@ LeetCode daily
 | [0125-valid-palindrome](https://github.com/athxrva03/DailyLeetcoding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/athxrva03/DailyLeetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/athxrva03/DailyLeetcoding/tree/master/0283-move-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
