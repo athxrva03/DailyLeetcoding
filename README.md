@@ -81,6 +81,7 @@ LeetCode daily
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/athxrva03/DailyLeetcoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/athxrva03/DailyLeetcoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -248,6 +249,7 @@ LeetCode daily
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -271,6 +273,7 @@ LeetCode daily
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
