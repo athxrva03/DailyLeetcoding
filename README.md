@@ -80,6 +80,7 @@ LeetCode daily
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/athxrva03/DailyLeetcoding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/athxrva03/DailyLeetcoding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -116,6 +117,7 @@ LeetCode daily
 | [0319-bulb-switcher](https://github.com/athxrva03/DailyLeetcoding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/athxrva03/DailyLeetcoding/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/athxrva03/DailyLeetcoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/athxrva03/DailyLeetcoding/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -247,6 +249,7 @@ LeetCode daily
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/athxrva03/DailyLeetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -258,6 +261,7 @@ LeetCode daily
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
