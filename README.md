@@ -42,6 +42,7 @@ LeetCode daily
 | [0001-two-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/athxrva03/DailyLeetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/athxrva03/DailyLeetcoding/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0033-search-in-rotated-sorted-array) |
@@ -144,6 +145,7 @@ LeetCode daily
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/athxrva03/DailyLeetcoding/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
@@ -180,6 +182,7 @@ LeetCode daily
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/athxrva03/DailyLeetcoding/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
