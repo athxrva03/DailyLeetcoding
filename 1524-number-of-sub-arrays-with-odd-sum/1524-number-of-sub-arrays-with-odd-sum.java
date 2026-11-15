@@ -1,0 +1,27 @@
+class Solution {
+    public int numOfSubarrays(int[] arr) {
+        final int MOD = 1_000_000_007;
+        
+        // Start with evenCount = 1 to account for an empty prefix sum of 0
+        int evenCount = 1;
+        int oddCount = 0;
+        
+        int prefixSum = 0;
+        int totalSubarrays = 0;
+
+        for (int num : arr) {
+            prefixSum += num;
+
+            // Check if current prefixSum is odd
+            if ((prefixSum & 1) == 1) {
+                totalSubarrays = (totalSubarrays + evenCount) % MOD;
+                oddCount++;
+            } else {
+                totalSubarrays = (totalSubarrays + oddCount) % MOD;
+                evenCount++;
+            }
+        }
+
+        return totalSubarrays;
+    }
+}
