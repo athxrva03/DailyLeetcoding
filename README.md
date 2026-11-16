@@ -73,6 +73,7 @@ LeetCode daily
 | [0636-exclusive-time-of-functions](https://github.com/athxrva03/DailyLeetcoding/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/athxrva03/DailyLeetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/athxrva03/DailyLeetcoding/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/athxrva03/DailyLeetcoding/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/athxrva03/DailyLeetcoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/athxrva03/DailyLeetcoding/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@ LeetCode daily
 | [0209-minimum-size-subarray-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/athxrva03/DailyLeetcoding/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/athxrva03/DailyLeetcoding/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
