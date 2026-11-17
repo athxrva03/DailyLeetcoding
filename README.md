@@ -220,6 +220,7 @@ LeetCode daily
 | ------- |
 | [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/athxrva03/DailyLeetcoding/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/athxrva03/DailyLeetcoding/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/athxrva03/DailyLeetcoding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/athxrva03/DailyLeetcoding/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -243,6 +244,7 @@ LeetCode daily
 | ------- |
 | [0002-add-two-numbers](https://github.com/athxrva03/DailyLeetcoding/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/athxrva03/DailyLeetcoding/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/athxrva03/DailyLeetcoding/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
