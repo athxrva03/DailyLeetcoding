@@ -85,6 +85,7 @@ LeetCode daily
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/athxrva03/DailyLeetcoding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/athxrva03/DailyLeetcoding/tree/master/3364-minimum-positive-sum-subarray) |
@@ -103,6 +104,7 @@ LeetCode daily
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/athxrva03/DailyLeetcoding/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +165,7 @@ LeetCode daily
 | [0977-squares-of-a-sorted-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/athxrva03/DailyLeetcoding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/athxrva03/DailyLeetcoding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
 | ------- |
@@ -181,6 +184,7 @@ LeetCode daily
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athxrva03/DailyLeetcoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/athxrva03/DailyLeetcoding/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/athxrva03/DailyLeetcoding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
@@ -325,4 +329,9 @@ LeetCode daily
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
