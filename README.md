@@ -16,6 +16,7 @@ LeetCode daily
 | [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/athxrva03/DailyLeetcoding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +105,7 @@ LeetCode daily
 | [0242-valid-anagram](https://github.com/athxrva03/DailyLeetcoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/athxrva03/DailyLeetcoding/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/athxrva03/DailyLeetcoding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -240,6 +242,7 @@ LeetCode daily
 | ------- |
 | [0169-majority-element](https://github.com/athxrva03/DailyLeetcoding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/athxrva03/DailyLeetcoding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/athxrva03/DailyLeetcoding/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -336,4 +339,8 @@ LeetCode daily
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/athxrva03/DailyLeetcoding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
