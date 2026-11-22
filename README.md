@@ -20,6 +20,7 @@ LeetCode daily
 | [0424-longest-repeating-character-replacement](https://github.com/athxrva03/DailyLeetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/athxrva03/DailyLeetcoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athxrva03/DailyLeetcoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/athxrva03/DailyLeetcoding/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/athxrva03/DailyLeetcoding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/athxrva03/DailyLeetcoding/tree/master/2409-count-days-spent-together) |
 ## Stack
